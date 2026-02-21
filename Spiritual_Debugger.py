@@ -3,7 +3,7 @@ import time
 def run_spiritual_debugger():
     while True: # 開啟無限迴圈
         print("\n" + "="*40)
-        print("--- 靈性辨識系統 Debugger v1.0 啟動中 ---")
+        print("--- 靈性辨識系統 Spiritual Debugger v1.0 啟動中 ---")
         print("="*40)
         time.sleep(0.5)
         
@@ -47,3 +47,4 @@ def run_spiritual_debugger():
 
 if __name__ == "__main__":
     run_spiritual_debugger()
+
